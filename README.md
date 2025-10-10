@@ -9,7 +9,10 @@
 
 [🌐 Live Demo](https://sora2watermarkremover.net) | [📖 Documentation](https://sora2watermarkremover.net/docs) 
 
+[English](README.md) | [简体中文](README_CN.md)
+
 </div>
+
 
 ---
 
